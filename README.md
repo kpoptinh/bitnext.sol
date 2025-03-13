@@ -1,1 +1,0 @@
-# bitnext.sol
